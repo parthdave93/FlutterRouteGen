@@ -1,0 +1,25 @@
+name: flutter_route_gen_example
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  route_gen_lib:
+    path: '../route_gen_lib'
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  build_runner: ^1.7.2
+  routegen:
+    path: '../routegen'
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
