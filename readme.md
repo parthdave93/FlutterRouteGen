@@ -66,7 +66,7 @@ const modulesRouteFiles = [];//["flutter_anotherexample_module/route/example_rou
 So here for reference, I have added flutter_anotherexample_module sorry for the bad naming convention as I didn't think of something else but you can add any module in which we are using this lib and then you can navigate to that something like this:
 
 ```
-ExampleRoute.FlutterChatModuleRoute.openScreen(context,param);
+ExampleRoute.FlutterAnotherexampleModuleRoute.openScreen(context,param);
 ```
 
 In the material app you can use something like this:
