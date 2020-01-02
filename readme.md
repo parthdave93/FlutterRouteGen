@@ -1,6 +1,10 @@
 # flutter_route_gen_example
 
-## Do not forget to run flutter upgrade and flutter pub upgrade before installing and using this lib as there was some issue with the build_runner or code generator which is not working for older versions.
+
+#### Do not forget:
+to run flutter upgrade and flutter pub upgrade before installing and using this lib as there was some issue with the build_runner or code generator which is not working for older versions.
+
+---
 
 Every time Flutter developer looks into his code it gives hard times, due to the default reactive pattern. Although there are architecture patterns like TDD in flutter which will help you it won't give much of a boost due to high pace development.
 
