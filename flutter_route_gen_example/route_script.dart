@@ -3,7 +3,7 @@ import 'dart:io';
 
 const routeClassName = "RoutePusher";
 const routeFilePath = "lib/route";
-const modulesRouteFiles = [];//["flutter_chat_module/route/example_route.dart"];
+const modulesRouteFiles = [];//["flutter_anotherexample_module/route/example_route.dart"];
 
 const command = "flutter packages pub run build_runner watch "
     " --delete-conflicting-outputs -v "
